@@ -1,0 +1,13 @@
+package com.me.loginmvp.biz;
+
+import com.me.loginmvp.bean.User;
+
+/**
+ * Created by tao.liu on 2017/7/26.
+ */
+
+public interface OnSigninListener {
+        void signinSuccess(User user);
+        void signinFailed();
+
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.me.loginmvp.balloonrelativelayout.BalloonRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/balloonRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+    <!--播放视频-->
+    <com.me.loginmvp.balloonrelativelayout.CustomVideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+    <include layout="@layout/layout_login_content"/>
+    <ProgressBar
+        android:id="@+id/id_pb_loading"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
+
+
+</com.me.loginmvp.balloonrelativelayout.BalloonRelativeLayout>
