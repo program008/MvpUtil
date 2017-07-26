@@ -15,9 +15,9 @@
 ![](http://img.blog.csdn.net/20150622212856011)
 
 ##DEMO截图     
-<img width="240" height="560" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182505.png?raw=true"/>
+<img width="340" height="460" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182505.png?raw=true"/>
 <div style="width:100%;height:auto;overflow:hidden">
-<img width="240" height="560" float ="left" text-align:center src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182545.png?raw=true" text-align:center/><img width="240" height="560" float ="right" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182612.png?raw=true"/>
+<img width="340" height="460" float ="left"  src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182545.png?raw=true" /><img width="340" height="460" float ="right" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182612.png?raw=true"/>
 </div>
 
 
