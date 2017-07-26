@@ -16,9 +16,8 @@
 
 ##DEMO截图     
 <img width="540" height="960" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182505.png?raw=true"/>
-###
-<img width="540" height="960" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182545.png?raw=true"/>
-###
-<img width="540" height="960" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182612.png?raw=true"/>
+
+<img width="540" height="960" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182545.png?raw=true"/><img width="540" height="960" src="https://github.com/program008/MvpUtil/blob/master/screenshots/device-2017-07-26-182612.png?raw=true"/>
+
 
 
